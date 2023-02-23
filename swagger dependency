@@ -1,0 +1,7 @@
+It work for spring boot 2.7.7 not sure about later version
+
+<dependency>
+			<groupId>org.springdoc</groupId>
+			<artifactId>springdoc-openapi-ui</artifactId>
+			<version>1.6.13</version>
+</dependency>
